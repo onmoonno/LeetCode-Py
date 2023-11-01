@@ -53,7 +53,7 @@
 
 ## 01. 数组
 
-- 数组基础知识
+- ***完成*** 数组基础知识
   - [数组基础知识](./Contents/01.Array/01.Array-Basic/01.Array-Basic.md)
   - [数组基础题目](./Contents/01.Array/01.Array-Basic/02.Array-Basic-List.md)
 - 数组排序算法
