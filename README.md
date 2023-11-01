@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-- **「算法与数据结构」** 基础知识的讲解教程，「LeetCode」750+ 道题目的详细解析。本项目易于理解，没有大跨度的思维跳跃，项目中使用部分图示、例子来帮助理解。
+- **「算法与数据结构」** 基础知识的讲解教程，「LeetCode」800+ 道题目的详细解析。本项目易于理解，没有大跨度的思维跳跃，项目中使用部分图示、例子来帮助理解。
 
 - 本教程先从基础的数据结构和算法开始讲解，再针对不同分类的数据结构和算法，进行具体题目的讲解分析。让读者可以通过「算法基础理论学习」和「编程实战学习」相结合的方式，彻底的掌握算法知识。
 
@@ -26,7 +26,7 @@
 
 我是一名 iOS / macOS 的开发程序员，另外也是北航软院的一名非全硕士（在读）。曾在大学期间学习过算法知识，并参加过 3 年的 ACM 比赛， 但水平有限，未能取得理想成绩。但是这 3 年的 ACM 经历，给我最大的收获是锻炼了自己的逻辑思维和解决实际问题的能力，这种能力为我今后的工作、学习打下了坚实的基础。
 
-我从 2021 年 03 月 30 日开始每日在 LeetCode 刷题，到 2022 年 06 月 08 日已经刷了 1000+ 道题目，并且完成了 750+ 道题解。努力向着 1000+、1500+、2000+ 道题解前进。
+我从 2021 年 03 月 30 日开始每日在 LeetCode 刷题，到 2022 年 06 月 08 日已经刷了 1000+ 道题目，并且完成了 800+ 道题解。努力向着 1000+、1500+、2000+ 道题解前进。
 
 在公众号 **「程序员充电站」** 里回复 "**算法打卡**"，拉你进 LeetCode 算法打卡计划群一起组队打卡。
 
@@ -69,8 +69,9 @@
   - [基数排序](./Contents/01.Array/02.Array-Sort/10.Array-Radix-Sort.md)
   - [数组排序题目](./Contents/01.Array/02.Array-Sort/11.Array-Sort-List.md)
 - 二分查找
-  - [二分查找知识](./Contents/01.Array/03.Array-Binary-Search/01.Array-Binary-Search.md)
-  - [二分查找题目](./Contents/01.Array/03.Array-Binary-Search/02.Array-Binary-Search-List.md)
+  - [二分查找知识（一）](./Contents/01.Array/03.Array-Binary-Search/01.Array-Binary-Search-01.md)
+  - [二分查找知识（二）](./Contents/01.Array/03.Array-Binary-Search/02.Array-Binary-Search-02.md)
+  - [二分查找题目](./Contents/01.Array/03.Array-Binary-Search/03.Array-Binary-Search-List.md)
 - 数组双指针
   - [数组双指针知识](./Contents/01.Array/04.Array-Two-Pointers/01.Array-Two-Pointers.md)
   - [数组双指针题目](./Contents/01.Array/04.Array-Two-Pointers/02.Array-Two-Pointers-List.md)
@@ -169,23 +170,18 @@
   - [图的拓扑排序知识](./Contents/08.Graph/02.Graph-Traversal/05.Graph-Topological-Sorting.md)
   - [图的拓扑排序题目](./Contents/08.Graph/02.Graph-Traversal/06.Graph-Topological-Sorting-List.md)
 - 图的生成树
-  - [图的生成树知识](./Contents/08.Graph/03.Gaph-Spanning-Tree/01.Gaph-Spanning-Tree.md)
-  - [Prim 算法](./Contents/08.Graph/03.Gaph-Spanning-Tree/02.Graph-Prim.md)
-  - [Kruskal 算法](./Contents/08.Graph/03.Gaph-Spanning-Tree/03.Graph-Kruskal.md)
-  - [图的生成树题目](./Contents/08.Graph/03.Gaph-Spanning-Tree/04.Gaph-Spanning-Tree-List.md)
+  - [图的最小生成树知识](./Contents/08.Graph/03.Graph-Spanning-Tree/01.Graph-Minimum-Spanning-Tree.md)
+  - [图的最小生成树题目](./Contents/08.Graph/03.Graph-Spanning-Tree/02.Graph-Minimum-Spanning-Tree-List.md)
 - 最短路径
-  - [单源最短路径知识](./Contents/08.Graph/04.Graph-Shortest-Path/01.Graph-Single-Source-Shortest-Path.md) 
-  - [Dijkstra 算法](./Contents/08.Graph/04.Graph-Shortest-Path/02.Graph-Dijkstra.md)
-  - [Bellman-Ford 算法](./Contents/08.Graph/04.Graph-Shortest-Path/03.Graph-Bellman-Ford.md)
-  - [SPFA 算法](./Contents/08.Graph/04.Graph-Shortest-Path/04.Graph-SPFA.md)
-  - [单源最短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/05.Graph-Single-Source-Shortest-Path-List.md)
-  - [多源最短路径知识](./Contents/08.Graph/04.Graph-Shortest-Path/06.Graph-Multi-Source-Shortest-Path.md)
-  - [Floyed 算法](./Contents/08.Graph/04.Graph-Shortest-Path/07.Graph-Floyed.md)
-  - [多源最短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/08.Graph-Multi-Source-Shortest-Path-List.md)
-  - [次短路径知识](./Contents/08.Graph/04.Graph-Shortest-Path/09.Graph-The-Second-Shortest-Path.md)
-  - [次短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/10.Graph-The-Second-Shortest-Path-List.md)
-  - [差分约束系统知识](./Contents/08.Graph/04.Graph-Shortest-Path/11.Graph-System-Of-Difference-Constraints.md)
-  - [差分约束系统题目](./Contents/08.Graph/04.Graph-Shortest-Path/12.Graph-System-Of-Difference-Constraints-List.md)
+  - [单源最短路径知识（一）](./Contents/08.Graph/04.Graph-Shortest-Path/01.Graph-Single-Source-Shortest-Path-01.md) 
+  - [单源最短路径知识（二）](./Contents/08.Graph/04.Graph-Shortest-Path/02.Graph-Single-Source-Shortest-Path-02.md) 
+  - [单源最短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/03.Graph-Single-Source-Shortest-Path-List.md)
+  - [多源最短路径知识](./Contents/08.Graph/04.Graph-Shortest-Path/04.Graph-Multi-Source-Shortest-Path.md)
+  - [多源最短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/05.Graph-Multi-Source-Shortest-Path-List.md)
+  - [次短路径知识](./Contents/08.Graph/04.Graph-Shortest-Path/06.Graph-The-Second-Shortest-Path.md)
+  - [次短路径题目](./Contents/08.Graph/04.Graph-Shortest-Path/07.Graph-The-Second-Shortest-Path-List.md)
+  - [差分约束系统知识](./Contents/08.Graph/04.Graph-Shortest-Path/08.Graph-System-Of-Difference-Constraints.md)
+  - [差分约束系统题目](./Contents/08.Graph/04.Graph-Shortest-Path/09.Graph-System-Of-Difference-Constraints-List.md)
 - 二分图
   - [二分图基础知识](./Contents/08.Graph/05.Graph-Bipartite/01.Graph-Bipartite-Basic.md)
   - [二分图基础题目](./Contents/08.Graph/05.Graph-Bipartite/02.Graph-Bipartite-Basic-List.md)
@@ -244,11 +240,11 @@
   - [状态压缩 DP 知识](./Contents/10.Dynamic-Programming/07.State-DP/01.State-DP.md)
   - [状态压缩 DP 题目](./Contents/10.Dynamic-Programming/07.State-DP/02.State-DP-List.md)
 - 计数 DP
-  - [计数 DP 知识](./Contents/10.Dynamic-Programming/08.Count-DP/01.Count-DP.md)
-  - [计数 DP 题目](./Contents/10.Dynamic-Programming/08.Count-DP/02.Count-DP-List.md)
+  - [计数 DP 知识](./Contents/10.Dynamic-Programming/08.Counting-DP/01.Counting-DP.md)
+  - [计数 DP 题目](./Contents/10.Dynamic-Programming/08.Counting-DP/02.Counting-DP-List.md)
 - 数位 DP
-  - [数位 DP 知识](./Contents/10.Dynamic-Programming/09.Number-DP/01.Number-DP.md)
-  - [数位 DP 题目](./Contents/10.Dynamic-Programming/09.Number-DP/02.Number-DP-List.md)
+  - [数位 DP 知识](./Contents/10.Dynamic-Programming/09.Digit-DP/01.Digit-DP.md)
+  - [数位 DP 题目](./Contents/10.Dynamic-Programming/09.Digit-DP/02.Digit-DP-List.md)
 - 概率 DP
   - [概率 DP 知识](./Contents/10.Dynamic-Programming/10.Probability-DP/01.Probability-DP.md)
   - [概率 DP 题目](./Contents/10.Dynamic-Programming/10.Probability-DP/02.Probability-DP-List.md)
@@ -259,4 +255,4 @@
   - [动态规划优化题目](./Contents/10.Dynamic-Programming/11.DP-Optimization/04.DP-Optimization-List.md)
 
 ## 11. 附加内容
-## [12. LeetCode 题解（已完成 780 道）](./Contents/00.Introduction/04.Solutions-List.md)
+## [12. LeetCode 题解（已完成 823 道）](./Contents/00.Introduction/04.Solutions-List.md)
