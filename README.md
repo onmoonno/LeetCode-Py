@@ -213,7 +213,7 @@
 
 ## 10. 动态规划
 
-- 动态规划基础
+- ***完成*** 动态规划基础
   - [动态规划基础知识](./Contents/10.Dynamic-Programming/01.Dynamic-Programming-Basic/01.Dynamic-Programming-Basic.md)
   - [动态规划基础题目](./Contents/10.Dynamic-Programming/01.Dynamic-Programming-Basic/02.Dynamic-Programming-Basic-List.md)
 - 记忆化搜索
