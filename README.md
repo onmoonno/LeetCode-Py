@@ -56,13 +56,13 @@
 - ***完成*** 数组基础知识
   - [数组基础知识](./Contents/01.Array/01.Array-Basic/01.Array-Basic.md)
   - [数组基础题目](./Contents/01.Array/01.Array-Basic/02.Array-Basic-List.md)
-- 数组排序算法
-  - [冒泡排序](./Contents/01.Array/02.Array-Sort/01.Array-Bubble-Sort.md)
-  - [选择排序](./Contents/01.Array/02.Array-Sort/02.Array-Selection-Sort.md)
-  - [插入排序](./Contents/01.Array/02.Array-Sort/03.Array-Insertion-Sort.md)
+- ***完成*** 数组排序算法
+  - ***重点***[冒泡排序](./Contents/01.Array/02.Array-Sort/01.Array-Bubble-Sort.md)
+  - ***重点***[选择排序](./Contents/01.Array/02.Array-Sort/02.Array-Selection-Sort.md)
+  - ***重点***[插入排序](./Contents/01.Array/02.Array-Sort/03.Array-Insertion-Sort.md)
   - [希尔排序](./Contents/01.Array/02.Array-Sort/04.Array-Shell-Sort.md)
-  - [归并排序](./Contents/01.Array/02.Array-Sort/05.Array-Merge-Sort.md)
-  - [快速排序](./Contents/01.Array/02.Array-Sort/06.Array-Quick-Sort.md)
+  - ***重点***[归并排序](./Contents/01.Array/02.Array-Sort/05.Array-Merge-Sort.md)
+  - ***重点***[快速排序](./Contents/01.Array/02.Array-Sort/06.Array-Quick-Sort.md)
   - [堆排序](./Contents/01.Array/02.Array-Sort/07.Array-Heap-Sort.md)
   - [计数排序](./Contents/01.Array/02.Array-Sort/08.Array-Counting-Sort.md)
   - [桶排序](./Contents/01.Array/02.Array-Sort/09.Array-Bucket-Sort.md)
