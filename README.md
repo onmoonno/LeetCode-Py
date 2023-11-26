@@ -96,9 +96,9 @@
 - 堆栈基础知识
   - [堆栈基础知识](./Contents/03.Stack/01.Stack-Basic/01.Stack-Basic.md)
   - [堆栈基础题目](./Contents/03.Stack/01.Stack-Basic/02.Stack-Basic-List.md)
-- 单调栈
-  - [单调栈知识](./Contents/03.Stack/02.Monotone-Stack/01.Monotone-Stack.md)
-  - [单调栈题目](./Contents/03.Stack/02.Monotone-Stack/02.Monotone-Stack-List.md)
+- ***完成*** 单调栈
+  - ***重点*** [单调栈知识](./Contents/03.Stack/02.Monotone-Stack/01.Monotone-Stack.md)
+  - ***重点*** [单调栈题目](./Contents/03.Stack/02.Monotone-Stack/02.Monotone-Stack-List.md)
 
 ## 04. 队列
 
