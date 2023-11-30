@@ -91,11 +91,11 @@
   - [链表双指针知识](./Contents/02.Linked-List/03.Linked-List-Two-Pointers/01.Linked-List-Two-Pointers.md)
   - [链表双指针题目](./Contents/02.Linked-List/03.Linked-List-Two-Pointers/02.Linked-List-Two-Pointers-List.md)
 
-## 03. 堆栈
+## ***完成*** 03. 堆栈
 
 - 堆栈基础知识
   - [堆栈基础知识](./Contents/03.Stack/01.Stack-Basic/01.Stack-Basic.md)
-  - [堆栈基础题目](./Contents/03.Stack/01.Stack-Basic/02.Stack-Basic-List.md)
+  - ***重点*** [堆栈基础题目](./Contents/03.Stack/01.Stack-Basic/02.Stack-Basic-List.md)
 - ***完成*** 单调栈
   - ***重点*** [单调栈知识](./Contents/03.Stack/02.Monotone-Stack/01.Monotone-Stack.md)
   - ***重点*** [单调栈题目](./Contents/03.Stack/02.Monotone-Stack/02.Monotone-Stack-List.md)
