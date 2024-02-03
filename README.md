@@ -255,4 +255,8 @@
   - [动态规划优化题目](./Contents/10.Dynamic-Programming/11.DP-Optimization/04.DP-Optimization-List.md)
 
 ## 11. 附加内容
+<<<<<<< HEAD
 ## [12. LeetCode 题解（已完成 823 道）](./Contents/00.Introduction/04.Solutions-List.md)
+=======
+## [12. LeetCode 题解（已完成 856 道）](./Contents/00.Introduction/04.Solutions-List.md)
+>>>>>>> a050fd43e43358b7ee5b0d7f48872e615ca57d73
